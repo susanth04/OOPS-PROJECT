@@ -1,0 +1,62 @@
+[
+    {
+        "flight_number": "6E7152",
+        "departure": "HYD",
+        "arrival": "VGA",
+        "status": "scheduled"
+    },
+    {
+        "flight_number": "BA8821",
+        "departure": "HYD",
+        "arrival": "VGA",
+        "status": "scheduled"
+    },
+    {
+        "flight_number": "6E7201",
+        "departure": "HYD",
+        "arrival": "VGA",
+        "status": "landed"
+    },
+    {
+        "flight_number": "6E7208",
+        "departure": "HYD",
+        "arrival": "VGA",
+        "status": "scheduled"
+    },
+    {
+        "flight_number": "6E7277",
+        "departure": "HYD",
+        "arrival": "VGA",
+        "status": "scheduled"
+    },
+    {
+        "flight_number": "IX2882",
+        "departure": "HYD",
+        "arrival": "VGA",
+        "status": "scheduled"
+    },
+    {
+        "flight_number": "BA8820",
+        "departure": "HYD",
+        "arrival": "VGA",
+        "status": "scheduled"
+    },
+    {
+        "flight_number": "AI9896",
+        "departure": "HYD",
+        "arrival": "VGA",
+        "status": "scheduled"
+    },
+    {
+        "flight_number": "6E7152",
+        "departure": "HYD",
+        "arrival": "VGA",
+        "status": "landed"
+    },
+    {
+        "flight_number": "6E7208",
+        "departure": "HYD",
+        "arrival": "VGA",
+        "status": "landed"
+    }
+]
